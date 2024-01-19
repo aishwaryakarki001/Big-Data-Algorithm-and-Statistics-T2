@@ -1,4 +1,3 @@
-# Big-Data-Algorithm-and-Statistics-T2
 
 # Big Data Algorithms and Statistic Week 2
 ## Lab 1
